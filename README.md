@@ -35,10 +35,13 @@ com.chatbot.whatsapp_bot
 ```
 
 ---
-
 ## 🔗 API Endpoint
 
-**POST** `/webhook`
+**Live Server URL:** `https://whatsapp-chatbot-7d3f.onrender.com/webhook`
+**Local Server URL:** `http://localhost:8080/webhook`
+
+**Method:** `POST`
+
 
 Simulates receiving a WhatsApp message.
 
